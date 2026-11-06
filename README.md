@@ -12,7 +12,7 @@
 
 目前该文件已经按原顺序合并：
 
-- **Abstract & Keywords**：对照第6版原有中英文摘要完成修订，原四部分结构与全部数据保留；基因来源Ec/Ca/Td准确标注，Table 1和其他章节未改，**待作者验收**
+- **Abstract & Keywords**：按第6版中英文原摘要及Gemini意见完成4项**忠实补译/术语一致性微调**，恢复“reconstructed and reinforced”和原中文“全局代谢网络”表述，统一`5 L stirred-tank bioreactor`，保留原四标签、全部数据和Ec/Ca/Td来源；Table 1及其他章节未改，**待作者验收**
 
 - **Introduction**：3自然段、18句中文原文对应的忠实英译；Gemini的有据语言建议已局部采纳，**待作者验收**
 
