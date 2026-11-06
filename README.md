@@ -10,8 +10,10 @@
 
 - **1 Materials and Methods**：1.1–1.8完整方法正文及Table 1（已根据Gemini审校意见修订，仍待作者与原始实验记录最终验收）
 - **2 Results**：2.1–2.4完整结果正文（采用此前确定的现行英文稿）
+- **3 Discussion and Conclusions**：3.1–3.5英文科学论证候选，已按中文数据和真实论文证据重组；**尚待作者/Gemini审查**
+- **References**：按中文版原编号[1]–[27]收入同一全文文件；目标期刊格式和所有条目的最终验真待完成
 
-以后**引言、Discussion、Conclusion、Abstract、Keywords，以及所有新的章节文字，全部直接写入这同一个Markdown文件**。无论修改哪一章、哪一小节，都通过GitHub覆盖该文件，不再创建独立章节稿、逐小节稿或V2/V3副本。旧稿由Git提交历史保留。
+以后**Introduction、Abstract、Keywords以及新增和修订的Discussion、Conclusion等所有正文，全部直接写入这同一个Markdown文件**。无论修改哪一章、哪一小节，都通过GitHub覆盖该文件，不再创建独立章节稿、逐小节稿或V2/V3副本。旧稿由Git提交历史保留。
 
 ## 协作资料与科学性问题
 
@@ -24,6 +26,6 @@
 
 ## 当前任务和维护原则
 
-中文权威来源是用户确认的 `毕业设计(6).docx`。当前英文全文包括第1、2章，后续按用户确定的结构补充**Discussion & Conclusion、Introduction和Abstract**。
+中文权威来源是用户确认的 `毕业设计(6).docx`。当前英文全文已包含第1章Methods、第2章Results和第3章Discussion and Conclusions的**候选稿**及27条源稿参考文献。下一阶段由作者/Gemini审核第3章的论证与证据后，依据中文最新版继续补充**Introduction、Abstract和Keywords**，并开展全文文献与科学性终审。
 
 **2026-11-06文件规则（最新，覆盖此前“每章一个文件”的旧规则）**：**整篇论文始终只有一份英文正文文件`英文投稿/论文英文全文.md`**。写作、修订及跨窗口交接必须实时更新它，核对提交结果；审校、文献、术语库可以独立留存。
